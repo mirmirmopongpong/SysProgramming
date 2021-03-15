@@ -1,0 +1,18 @@
+Script started on 2021-03-15 18:06:36+09:00 [TERM="xterm-256color" TTY="/dev/tty2" COLUMNS="120" LINES="30"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;meshow@DESKTOP-NVIQD5E: ~[01;32mmeshow@DESKTOP-NVIQD5E[00m:[01;34m~[00m$ date
+Mon Mar 15 18:06:40 KST 2021
+]0;meshow@DESKTOP-NVIQD5E: ~[01;32mmeshow@DESKTOP-NVIQD5E[00m:[01;34m~[00m$ pwd
+/home/meshow
+]0;meshow@DESKTOP-NVIQD5E: ~[01;32mmeshow@DESKTOP-NVIQD5E[00m:[01;34m~[00m$ ls
+0315
+]0;meshow@DESKTOP-NVIQD5E: ~[01;32mmeshow@DESKTOP-NVIQD5E[00m:[01;34m~[00m$ hostname
+DESKTOP-NVIQD5E
+]0;meshow@DESKTOP-NVIQD5E: ~[01;32mmeshow@DESKTOP-NVIQD5E[00m:[01;34m~[00m$ uname
+Linux
+]0;meshow@DESKTOP-NVIQD5E: ~[01;32mmeshow@DESKTOP-NVIQD5E[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2021-03-15 18:06:55+09:00 [COMMAND_EXIT_CODE="0"]
